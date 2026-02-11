@@ -1,1 +1,3 @@
-# Mrequirements.txt
+# requirements.txt
+pyTelegramBotAPI==4.24.0
+requests==2.32.3
